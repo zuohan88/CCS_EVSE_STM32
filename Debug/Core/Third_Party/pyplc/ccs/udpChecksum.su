@@ -1,0 +1,1 @@
+../Core/Third_Party/pyplc/ccs/udpChecksum.c:11:10:calculateUdpAndTcpChecksumForIPv6	40	static

@@ -1,0 +1,2 @@
+../Core/Third_Party/pyplc/exi/codec/MethodsBag.c:41:5:exiGetCodingLength	13
+../Core/Third_Party/pyplc/exi/codec/MethodsBag.c:88:9:numberOf7BitBlocksToRepresent	5

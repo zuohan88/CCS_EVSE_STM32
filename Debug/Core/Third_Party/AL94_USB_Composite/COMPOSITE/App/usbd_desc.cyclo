@@ -1,0 +1,9 @@
+../Core/Third_Party/AL94_USB_Composite/COMPOSITE/App/usbd_desc.c:225:11:USBD_DeviceDescriptor	1
+../Core/Third_Party/AL94_USB_Composite/COMPOSITE/App/usbd_desc.c:238:11:USBD_LangIDStrDescriptor	1
+../Core/Third_Party/AL94_USB_Composite/COMPOSITE/App/usbd_desc.c:251:11:USBD_ProductStrDescriptor	2
+../Core/Third_Party/AL94_USB_Composite/COMPOSITE/App/usbd_desc.c:270:11:USBD_ManufacturerStrDescriptor	1
+../Core/Third_Party/AL94_USB_Composite/COMPOSITE/App/usbd_desc.c:283:11:USBD_SerialStrDescriptor	1
+../Core/Third_Party/AL94_USB_Composite/COMPOSITE/App/usbd_desc.c:304:11:USBD_ConfigStrDescriptor	2
+../Core/Third_Party/AL94_USB_Composite/COMPOSITE/App/usbd_desc.c:323:11:USBD_InterfaceStrDescriptor	2
+../Core/Third_Party/AL94_USB_Composite/COMPOSITE/App/usbd_desc.c:356:13:Get_SerialNum	2
+../Core/Third_Party/AL94_USB_Composite/COMPOSITE/App/usbd_desc.c:380:13:IntToUnicode	3

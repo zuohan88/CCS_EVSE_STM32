@@ -1,0 +1,2 @@
+../Core/Third_Party/pyplc/exi/codec/BitInputStream.c:41:12:readBuffer	3
+../Core/Third_Party/pyplc/exi/codec/BitInputStream.c:67:5:readBits	8

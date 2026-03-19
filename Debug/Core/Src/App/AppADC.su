@@ -1,0 +1,15 @@
+../Core/Src/App/AppADC.c:57:6:AppADC_Init	16	static
+../Core/Src/App/AppADC.c:97:6:AppADC_task	104	static
+../Core/Src/App/AppADC.c:138:6:HAL_ADC_ConvCpltCallback	112	static
+../Core/Src/App/AppADC.c:187:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/App/AppADC.c:198:8:measure_Vin	16	static
+../Core/Src/App/AppADC.c:203:8:measure_MCP9700A	32	static
+../Core/Src/App/AppADC.c:217:8:measure_temp_MCU	40	static
+../Core/Src/App/AppADC.c:227:8:measure_high_voltage	24	static
+../Core/Src/App/AppADC.c:234:8:measure_high_current	24	static
+../Core/Src/App/AppADC.c:244:8:measure_ground_1	32	static
+../Core/Src/App/AppADC.c:249:8:measure_ground_2	32	static
+../Core/Src/App/AppADC.c:264:8:measure_pt1000_1	48	static
+../Core/Src/App/AppADC.c:280:8:measure_pt1000_2	48	static
+../Core/Src/App/AppADC.c:296:8:measure_pilot_adc_high_speed	48	static
+../Core/Src/App/AppADC.c:341:6:AppADC_PilotCtrl	16	static

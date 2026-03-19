@@ -1,0 +1,4 @@
+../Core/Third_Party/pyplc/exi/appHandshake/appHandEXIDatatypesDecoder.c:60:12:decode_appHandAppProtocolType	43
+../Core/Third_Party/pyplc/exi/appHandshake/appHandEXIDatatypesDecoder.c:266:12:decode_appHandAnonType_supportedAppProtocolReq	105
+../Core/Third_Party/pyplc/exi/appHandshake/appHandEXIDatatypesDecoder.c:757:12:decode_appHandAnonType_supportedAppProtocolRes	22
+../Core/Third_Party/pyplc/exi/appHandshake/appHandEXIDatatypesDecoder.c:865:5:decode_appHandExiDocument	5

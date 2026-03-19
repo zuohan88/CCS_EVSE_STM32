@@ -1,0 +1,17 @@
+../Core/Third_Party/TM/serial.c:44:6:usart_init_1	8	static
+../Core/Third_Party/TM/serial.c:58:6:usart_rx_check_reset_1	4	static
+../Core/Third_Party/TM/serial.c:62:6:usart_rx_check_1	16	static
+../Core/Third_Party/TM/serial.c:91:6:usart_process_data_1	16	static
+../Core/Third_Party/TM/serial.c:96:6:uasrt_write_1	16	static
+../Core/Third_Party/TM/serial.c:101:6:usart_send_string_1	16	static
+../Core/Third_Party/TM/serial.c:106:9:usart_start_tx_dma_transfer_1	24	static,ignoring_inline_asm
+../Core/Third_Party/TM/serial.c:128:8:usart_read_buff_1	8	static
+../Core/Third_Party/TM/serial.c:132:8:usart_read_char_buff_1	16	static
+../Core/Third_Party/TM/serial.c:141:6:HAL_UART_TxCpltCallback	16	static
+../Core/Third_Party/TM/serial.c:157:6:HAL_UART_RxHalfCpltCallback	16	static
+../Core/Third_Party/TM/serial.c:167:6:HAL_UART_RxCpltCallback	16	static
+../Core/Third_Party/TM/serial.c:177:6:USER_UART_IRQHandler	16	static
+../Core/Third_Party/TM/serial.c:195:6:HAL_UART_ErrorCallback	16	static
+../Core/Third_Party/TM/serial.c:220:6:HAL_UART_AbortCpltCallback	16	static
+../Core/Third_Party/TM/serial.c:225:6:HAL_UART_AbortReceiveCpltCallback	16	static
+../Core/Third_Party/TM/serial.c:230:6:HAL_UART_AbortTransmitCpltCallback	16	static

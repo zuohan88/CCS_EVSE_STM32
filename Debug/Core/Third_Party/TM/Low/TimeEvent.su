@@ -1,0 +1,4 @@
+../Core/Third_Party/TM/Low/TimeEvent.c:16:6:TimeEvent_tick	24	static
+../Core/Third_Party/TM/Low/TimeEvent.c:33:9:TimeEvent_new_Timer	16	static
+../Core/Third_Party/TM/Low/TimeEvent.c:45:6:TimeEvent_arm	32	static
+../Core/Third_Party/TM/Low/TimeEvent.c:52:6:TimeEvent_disarm	16	static

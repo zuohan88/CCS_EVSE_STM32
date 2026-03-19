@@ -1,0 +1,14 @@
+../Core/Third_Party/pyplc/ccs/tcp.c:37:6:tcp_ctor	16	static
+../Core/Third_Party/pyplc/ccs/tcp.c:73:6:tcp_evaluateRxPacket	32	static
+../Core/Third_Party/pyplc/ccs/tcp.c:193:6:tcp_connect	24	static
+../Core/Third_Party/pyplc/ccs/tcp.c:220:6:tcp_sendFirstAck	24	static
+../Core/Third_Party/pyplc/ccs/tcp.c:229:6:tcp_sendAck	24	static
+../Core/Third_Party/pyplc/ccs/tcp.c:238:6:tcp_transmit	24	static
+../Core/Third_Party/pyplc/ccs/tcp.c:252:6:tcp_testSendData	24	static
+../Core/Third_Party/pyplc/ccs/tcp.c:265:6:tcp_prepareTcpHeader	48	static
+../Core/Third_Party/pyplc/ccs/tcp.c:317:6:tcp_packRequestIntoIp	32	static
+../Core/Third_Party/pyplc/ccs/tcp.c:353:6:tcp_packRequestIntoEthernet	32	static
+../Core/Third_Party/pyplc/ccs/tcp.c:377:6:tcp_Disconnect	16	static
+../Core/Third_Party/pyplc/ccs/tcp.c:388:9:tcp_isClosed	16	static
+../Core/Third_Party/pyplc/ccs/tcp.c:392:9:tcp_isConnected	16	static
+../Core/Third_Party/pyplc/ccs/tcp.c:396:6:tcp_Mainfunction	16	static

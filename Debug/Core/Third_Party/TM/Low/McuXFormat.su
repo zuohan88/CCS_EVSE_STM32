@@ -1,0 +1,15 @@
+../Core/Third_Party/TM/Low/McuXFormat.c:360:13:ulong2a	24	static
+../Core/Third_Party/TM/Low/McuXFormat.c:403:13:ullong2a	24	static
+../Core/Third_Party/TM/Low/McuXFormat.c:450:13:putCharIntoBufMaxLen	24	static
+../Core/Third_Party/TM/Low/McuXFormat.c:458:5:xsnprintf	40	static
+../Core/Third_Party/TM/Low/McuXFormat.c:508:10:McuXFormat_xformat	24	static
+../Core/Third_Party/TM/Low/McuXFormat.c:545:17:xstrlen	24	static
+../Core/Third_Party/TM/Low/McuXFormat.c:556:17:outBuffer	40	static
+../Core/Third_Party/TM/Low/McuXFormat.c:579:17:outChars	32	static
+../Core/Third_Party/TM/Low/McuXFormat.c:593:13:putCharIntoBuf	24	static
+../Core/Third_Party/TM/Low/McuXFormat.c:598:5:xsprintf	32	static
+../Core/Third_Party/TM/Low/McuXFormat.c:659:10:McuXFormat_xvformat	192	static
+../Core/Third_Party/TM/Low/McuXFormat.c:1136:5:McuXFormat_xsprintf	28	static
+../Core/Third_Party/TM/Low/McuXFormat.c:1166:5:McuXFormat_xsnprintf	24	static
+../Core/Third_Party/TM/Low/McuXFormat.c:1187:6:McuXFormat_Init	4	static
+../Core/Third_Party/TM/Low/McuXFormat.c:1202:6:McuXFormat_Deinit	4	static

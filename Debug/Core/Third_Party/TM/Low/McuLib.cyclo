@@ -1,0 +1,2 @@
+../Core/Third_Party/TM/Low/McuLib.c:71:6:McuLib_Init	1
+../Core/Third_Party/TM/Low/McuLib.c:86:6:McuLib_Deinit	1

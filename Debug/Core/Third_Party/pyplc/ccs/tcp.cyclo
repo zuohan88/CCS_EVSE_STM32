@@ -1,0 +1,14 @@
+../Core/Third_Party/pyplc/ccs/tcp.c:37:6:tcp_ctor	1
+../Core/Third_Party/pyplc/ccs/tcp.c:73:6:tcp_evaluateRxPacket	11
+../Core/Third_Party/pyplc/ccs/tcp.c:193:6:tcp_connect	1
+../Core/Third_Party/pyplc/ccs/tcp.c:220:6:tcp_sendFirstAck	1
+../Core/Third_Party/pyplc/ccs/tcp.c:229:6:tcp_sendAck	1
+../Core/Third_Party/pyplc/ccs/tcp.c:238:6:tcp_transmit	2
+../Core/Third_Party/pyplc/ccs/tcp.c:252:6:tcp_testSendData	1
+../Core/Third_Party/pyplc/ccs/tcp.c:265:6:tcp_prepareTcpHeader	1
+../Core/Third_Party/pyplc/ccs/tcp.c:317:6:tcp_packRequestIntoIp	1
+../Core/Third_Party/pyplc/ccs/tcp.c:353:6:tcp_packRequestIntoEthernet	1
+../Core/Third_Party/pyplc/ccs/tcp.c:377:6:tcp_Disconnect	1
+../Core/Third_Party/pyplc/ccs/tcp.c:388:9:tcp_isClosed	1
+../Core/Third_Party/pyplc/ccs/tcp.c:392:9:tcp_isConnected	1
+../Core/Third_Party/pyplc/ccs/tcp.c:396:6:tcp_Mainfunction	1

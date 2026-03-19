@@ -1,0 +1,10 @@
+../Core/Third_Party/TM/cdc_serial.c:44:6:CDC_init_0	8	static
+../Core/Third_Party/TM/cdc_serial.c:51:8:CDC_rx_buffsize_0	8	static
+../Core/Third_Party/TM/cdc_serial.c:56:8:CDC_rx_readbuff_0	16	static
+../Core/Third_Party/TM/cdc_serial.c:61:6:CDC_rx_tx_test_0	112	static
+../Core/Third_Party/TM/cdc_serial.c:78:6:CDC_write_0	16	static
+../Core/Third_Party/TM/cdc_serial.c:89:6:CDC_send_string_0	16	static
+../Core/Third_Party/TM/cdc_serial.c:93:6:CDC_reset_tx_0	8	static
+../Core/Third_Party/TM/cdc_serial.c:97:9:CDC_start_tx_dma_transfer_0	24	static,ignoring_inline_asm
+../Core/Third_Party/TM/cdc_serial.c:126:6:USER_CDC_TxCpltcallBack_0	16	static
+../Core/Third_Party/TM/cdc_serial.c:136:6:USER_CDC_RxHandler_0	16	static

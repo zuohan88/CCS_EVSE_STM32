@@ -1,0 +1,4 @@
+../Core/Third_Party/pyplc/exi/appHandshake/appHandEXIDatatypesEncoder.c:54:12:encode_appHandAppProtocolType	24	static
+../Core/Third_Party/pyplc/exi/appHandshake/appHandEXIDatatypesEncoder.c:179:12:encode_appHandAnonType_supportedAppProtocolReq	32	static
+../Core/Third_Party/pyplc/exi/appHandshake/appHandEXIDatatypesEncoder.c:565:12:encode_appHandAnonType_supportedAppProtocolRes	24	static
+../Core/Third_Party/pyplc/exi/appHandshake/appHandEXIDatatypesEncoder.c:639:5:encode_appHandExiDocument	16	static

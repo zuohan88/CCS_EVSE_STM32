@@ -1,0 +1,2 @@
+../Core/Third_Party/pyplc/exi/codec/ByteStream.c:44:5:readBytesFromFile	40	static
+../Core/Third_Party/pyplc/exi/codec/ByteStream.c:68:5:writeBytesToFile	32	static

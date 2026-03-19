@@ -1,0 +1,4 @@
+../Core/Third_Party/pyplc/canbus/ring/ring_buf3.c:39:6:RingBuf3_ctor	1
+../Core/Third_Party/pyplc/canbus/ring/ring_buf3.c:48:6:RingBuf3_put	3
+../Core/Third_Party/pyplc/canbus/ring/ring_buf3.c:80:6:RingBuf3_get	3
+../Core/Third_Party/pyplc/canbus/ring/ring_buf3.c:110:13:RingBuf3_num_free	3

@@ -1,0 +1,11 @@
+../Core/Src/App/AppSerial.c:81:6:mySerialPrint	8	static
+../Core/Src/App/AppSerial.c:92:6:AppSerial_Init	8	static
+../Core/Src/App/AppSerial.c:96:6:AppSerial_SerialTask	112	static
+../Core/Src/App/AppSerial.c:104:6:AppSerial_CDCTask	112	static
+../Core/Src/App/AppSerial.c:113:6:AppSerial_CheckUSB	16	static
+../Core/Src/App/AppSerial.c:135:5:CDC_RUN_Ava	8	static
+../Core/Src/App/AppSerial.c:140:5:UART_RUN_Ava	8	static
+../Core/Src/App/AppSerial.c:146:5:CDC_RUN_Char	24	static
+../Core/Src/App/AppSerial.c:178:5:UART_RUN_Char	24	static
+../Core/Src/App/AppSerial.c:207:6:Task_Read_EVCC_Data	80	static
+../Core/Src/App/AppSerial.c:359:5:Process_Normal_123	32	static

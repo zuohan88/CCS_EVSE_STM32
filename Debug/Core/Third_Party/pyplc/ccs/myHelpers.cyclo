@@ -1,0 +1,5 @@
+../Core/Third_Party/pyplc/ccs/myHelpers.c:10:6:addToTrace	1
+../Core/Third_Party/pyplc/ccs/myHelpers.c:16:6:showAsHex	3
+../Core/Third_Party/pyplc/ccs/myHelpers.c:28:6:sanityCheck	1
+../Core/Third_Party/pyplc/ccs/myHelpers.c:32:6:my_memcpy	2
+../Core/Third_Party/pyplc/ccs/myHelpers.c:39:6:my_memset	2

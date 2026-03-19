@@ -1,0 +1,2 @@
+../Core/Third_Party/pyplc/ccs/evsePredefine.c:10:9:combineValueAndMultiplier	16	static
+../Core/Third_Party/pyplc/ccs/evsePredefine.c:16:9:OutputValueAndMultiplier	24	static

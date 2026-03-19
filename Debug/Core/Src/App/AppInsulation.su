@@ -1,0 +1,12 @@
+../Core/Src/App/AppInsulation.c:138:6:measure_voltages_VP_VDC_P_2	40	static
+../Core/Src/App/AppInsulation.c:150:6:measure_voltages_VN_VDC_N_2	40	static
+../Core/Src/App/AppInsulation.c:162:6:calculate_riso_2	32	static
+../Core/Src/App/AppInsulation.c:168:6:measure_voltages_VP_VDC_P	48	static
+../Core/Src/App/AppInsulation.c:181:6:measure_voltages_VN_V_DC_N	48	static
+../Core/Src/App/AppInsulation.c:195:6:calculate_riso	32	static
+../Core/Src/App/AppInsulation.c:200:6:AppInsulation_Init	8	static
+../Core/Src/App/AppInsulation.c:206:6:AppInsulation_TimerTask	16	static
+../Core/Src/App/AppInsulation.c:213:6:AppInsulation_StartTask	16	static
+../Core/Src/App/AppInsulation.c:220:6:AppInsulation_StopTask	16	static
+../Core/Src/App/AppInsulation.c:228:6:AppInsulation_Task	16	static
+../Core/Src/App/AppInsulation.c:277:6:AppInsulation_test	8	static

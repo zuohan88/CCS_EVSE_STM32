@@ -1,0 +1,7 @@
+../Core/Src/App/app_func.c:51:10:rom_read	24	static
+../Core/Src/App/app_func.c:57:6:rom_write	832	static
+../Core/Src/App/app_func.c:69:6:ROM_TEST	32	static,ignoring_inline_asm
+../Core/Src/App/app_func.c:83:6:Process	16	static
+../Core/Src/App/app_func.c:98:5:isNumber	24	static
+../Core/Src/App/app_func.c:106:5:isAllNum	24	static
+../Core/Src/App/app_func.c:113:5:xsprintfln_user	28	static

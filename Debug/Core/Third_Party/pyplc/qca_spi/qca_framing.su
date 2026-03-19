@@ -1,0 +1,4 @@
+../Core/Third_Party/pyplc/qca_spi/qca_framing.c:46:1:QcaFrmCreateHeader	16	static
+../Core/Third_Party/pyplc/qca_spi/qca_framing.c:73:1:QcaFrmCreateFooter	16	static
+../Core/Third_Party/pyplc/qca_spi/qca_framing.c:90:1:QcaFrmFsmInit	16	static
+../Core/Third_Party/pyplc/qca_spi/qca_framing.c:110:1:QcaFrmFsmDecode	32	static

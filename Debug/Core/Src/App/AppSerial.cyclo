@@ -1,0 +1,11 @@
+../Core/Src/App/AppSerial.c:81:6:mySerialPrint	1
+../Core/Src/App/AppSerial.c:92:6:AppSerial_Init	1
+../Core/Src/App/AppSerial.c:96:6:AppSerial_SerialTask	3
+../Core/Src/App/AppSerial.c:104:6:AppSerial_CDCTask	3
+../Core/Src/App/AppSerial.c:113:6:AppSerial_CheckUSB	6
+../Core/Src/App/AppSerial.c:135:5:CDC_RUN_Ava	1
+../Core/Src/App/AppSerial.c:140:5:UART_RUN_Ava	1
+../Core/Src/App/AppSerial.c:146:5:CDC_RUN_Char	14
+../Core/Src/App/AppSerial.c:178:5:UART_RUN_Char	13
+../Core/Src/App/AppSerial.c:207:6:Task_Read_EVCC_Data	1
+../Core/Src/App/AppSerial.c:359:5:Process_Normal_123	11
