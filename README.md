@@ -8,8 +8,8 @@
 # Todos
 - ground fault detection
 - supply power to EV
-- protocol to OCPP main controller
-- iso15118 not yet supported
+- protocol to OCPP main controller over USB
+
 
 
 # Build Environment / Compiling
