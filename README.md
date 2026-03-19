@@ -16,6 +16,7 @@
 1. Controller: STM32G474RE
 2. Language: C only
 3. Workspace: STM32CubeIDE Version: 1.14.1
+4. STM32CubeMX
 
 
 # Cross References
