@@ -3,7 +3,7 @@
 - simplified QCA7000 driver is stable
 - simplified ethernet stack is stable
 - canbus to Power module is stable
-- tested with EV, protocol worked well until Precharge state under DIN70121 protocol
+- tested with EV, protocol worked well until Charge Parameter Discovery state under DIN70121 protocol
   
 
 # Todos
