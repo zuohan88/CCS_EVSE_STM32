@@ -1,5 +1,5 @@
 # News / Change History
-2026-03-19
+2025-01-01
 - simplified QCA7000 driver is stable
 - simplified ethernet stack is stable
 - canbus to Power module is stable
