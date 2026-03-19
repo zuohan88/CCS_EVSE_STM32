@@ -1,7 +1,7 @@
 # News / Change History
 2026-03-19
-- QCA7000 driver is stable
-- ethernet stack is stable
+- simplified QCA7000 driver is stable
+- simplified ethernet stack is stable
 - canbus to Power module is stable
 - tested with EV, protocol worked well until Precharge state under DIN70121 protocol
   
